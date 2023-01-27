@@ -1,0 +1,34 @@
+1.1-1
+  Give a real-world example that requires sorting or a real-world example that 
+  requires computing a convex hull.
+
+    A real-world example that requires sorting is how a web search is ordered with the most 
+    relavent results appearing first and least relavent appearing last. 
+
+1.1-2
+  Other than speed, what other measures of efficiency might one use in a real-world setting?
+
+    Other measures of efficiency may include: cost and resources required.
+
+1.1-3
+  Select a data structure that you have seen previously, and discuss its 
+  strengths and limitations.
+
+    An Array is a data structure that is great for quickly inserting values, however 
+    it may be slow to search for a value that is stored in an array without it's specific index.
+
+1.1-4
+  How are the shortest-path and traveling-salesman problems given above similar?
+  How are they different?
+
+    These problems are similar because they are both concerned with finding the best path
+    from a set of points. They are different because shortest-path does not cycle back to 
+    its initial point whereas traveling-salesman with be a cycle starting from its initial
+    point and is an NP-complete problem.
+
+1.1-5
+  Come up with a real-world problem in which only the best solution will do.
+  Then come up with one in which a solution that is "approximately" the best is good enough.
+
+    Only the best solution will do if the problem was to sort a list of transactions from least to greatest.
+    An approximate solution would be the best path to take for a bike ride. 
